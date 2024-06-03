@@ -2,7 +2,7 @@
 # L2MAC: The Large Language Model Automatic Computer Framework
 
 <p align="center">
-<a href=""><img src="docs/public/l2mac-icon-white.png" alt="L2MAC logo: The first practical LLM-based general-purpose stored-program automatic computer (von Neumann architecture) framework, an LLMbased multi-agent system, for extensive and consistent output generation." width="150px"></a>
+<a href=""><img src="docs/public/l2mac-icon-white.png" alt="L2MAC logo: The first practical LLM-based general-purpose stored-program automatic computer (von Neumann architecture) framework, an LLMbased multi-agent system, for extensive consistent output generation." width="150px"></a>
 </p>
 
 <p align="center">
